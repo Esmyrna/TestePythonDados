@@ -3,7 +3,6 @@
 
 - 🔭 Atualmente estou me aperfeiçoando na parte front-end e back-end
 - 🌱 I’m currently learning HTML, CSS, JavaScript, JAVA and Python.
-- 👯 I’m looking to collaborate on ...
 
 -->
 
@@ -22,7 +21,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://lh4.googleusercontent.com/_7Nl-FWyJ4MXsRftGBGDtINo38pyKPkrLmf7IgPUFA6T4JfKmljcKpqZDxy33x7iX84ntDwT8l-Ie3OV4sUe-W0=w1280">
-</div
+    </div>
     
   ##
     <div>
