@@ -1,7 +1,7 @@
 ### Olá! Eu sou Esmyrna! 👋
 
 
-- 🔭 Atualmente estou me aperfeiçoando na parte front-end e back-end
+- 🔭 Atualmente estou me aperfeiçoando na parte front-end e back-end.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, JAVA and Python.
 
 -->
